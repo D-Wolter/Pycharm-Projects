@@ -1,0 +1,3 @@
+#exiba Olá Mundo! na tela
+# msg = 'Olá Mundo!'
+print(msg)
